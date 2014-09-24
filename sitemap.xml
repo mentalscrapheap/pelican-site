@@ -4,112 +4,112 @@ xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitem
 xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
-<loc>http://mentalscrapheap.net:8000/index.html</loc>
-<lastmod>2014-09-23T22:30:20-00:00</lastmod>
+<loc>http://mentalscrapheap.github.io/pelican-site/index.html</loc>
+<lastmod>2014-09-24T08:58:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mentalscrapheap.net:8000/categories.html</loc>
-<lastmod>2014-09-23T22:30:20-00:00</lastmod>
+<loc>http://mentalscrapheap.github.io/pelican-site/categories.html</loc>
+<lastmod>2014-09-24T08:58:58-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mentalscrapheap.net:8000/pages/whoami.html</loc>
-<lastmod>2014-09-23T22:30:20-00:00</lastmod>
+<loc>http://mentalscrapheap.github.io/pelican-site/pages/whoami.html</loc>
+<lastmod>2014-09-24T08:58:58-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mentalscrapheap.net:8000/2013/02/lessons-from-benjamin-zanders-talk-on-ted-2008/</loc>
+<loc>http://mentalscrapheap.github.io/pelican-site/2013/02/lessons-from-benjamin-zanders-talk-on-ted-2008/</loc>
 <lastmod>2013-02-09T00:00:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mentalscrapheap.net:8000/2013/02/therobertd-interviews-farnoosh-brock/</loc>
+<loc>http://mentalscrapheap.github.io/pelican-site/2013/02/therobertd-interviews-farnoosh-brock/</loc>
 <lastmod>2013-02-06T00:00:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mentalscrapheap.net:8000/2013/01/now/</loc>
+<loc>http://mentalscrapheap.github.io/pelican-site/2013/01/now/</loc>
 <lastmod>2013-01-28T21:30:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mentalscrapheap.net:8000/2013/01/Every_successful_enterprise_requires_three_men/</loc>
+<loc>http://mentalscrapheap.github.io/pelican-site/2013/01/Every_successful_enterprise_requires_three_men/</loc>
 <lastmod>2013-01-26T11:20:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mentalscrapheap.net:8000/category/personal-development.html</loc>
+<loc>http://mentalscrapheap.github.io/pelican-site/category/personal-development.html</loc>
 <lastmod>2013-02-09T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mentalscrapheap.net:8000/category/random-ramblings.html</loc>
+<loc>http://mentalscrapheap.github.io/pelican-site/category/random-ramblings.html</loc>
 <lastmod>2013-01-28T21:30:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mentalscrapheap.net:8000/tag/faith.html</loc>
+<loc>http://mentalscrapheap.github.io/pelican-site/tag/faith.html</loc>
 <lastmod>2013-02-09T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mentalscrapheap.net:8000/tag/ted.html</loc>
+<loc>http://mentalscrapheap.github.io/pelican-site/tag/ted.html</loc>
 <lastmod>2013-02-09T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mentalscrapheap.net:8000/tag/personal-effectivity.html</loc>
+<loc>http://mentalscrapheap.github.io/pelican-site/tag/personal-effectivity.html</loc>
 <lastmod>2013-02-06T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mentalscrapheap.net:8000/tag/links.html</loc>
+<loc>http://mentalscrapheap.github.io/pelican-site/tag/links.html</loc>
 <lastmod>2013-02-06T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mentalscrapheap.net:8000/tag/quotes.html</loc>
+<loc>http://mentalscrapheap.github.io/pelican-site/tag/quotes.html</loc>
 <lastmod>2013-01-28T21:30:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mentalscrapheap.net:8000/author/rick-veenstra.html</loc>
+<loc>http://mentalscrapheap.github.io/pelican-site/author/rick-veenstra.html</loc>
 <lastmod>2013-02-09T00:00:00-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
-<loc>http://mentalscrapheap.net:8000/nl/2013/01/Every_successful_enterprise_requires_three_men/</loc>
+<loc>http://mentalscrapheap.github.io/pelican-site/nl/2013/01/Every_successful_enterprise_requires_three_men/</loc>
 <lastmod>2013-01-26T11:20:00-00:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
